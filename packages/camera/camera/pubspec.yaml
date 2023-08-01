@@ -23,12 +23,12 @@ flutter:
 dependencies:
   camera_android:
     git:
-      url: https://github.com/vnpage/flutter-plugins.git
+      url: https://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@github.com/vnpage/flutter-plugins.git
       ref: camera_linkid_ekyc
       path: packages/camera/camera_android
   camera_avfoundation:
     git:
-      url: https://github.com/vnpage/flutter-plugins.git
+      url: https://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@github.com/vnpage/flutter-plugins.git
       ref: camera_linkid_ekyc
       path: packages/camera/camera_avfoundation
   camera_platform_interface: ^2.3.2
